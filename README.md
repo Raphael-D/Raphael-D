@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ### 🍀 Middleware & Environments
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="16" valign="middle" /> Docker
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="16" valign="middle" /> Eclipse
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="16" valign="middle" /> MySQL
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="16" valign="middle" /> Node.js
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apache/apache-original.svg" alt="NGINX" width="16" valign="middle" /> Apache
