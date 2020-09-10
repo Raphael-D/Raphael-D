@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="16" valign="middle" /> Node.js
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apache/apache-original.svg" alt="NGINX" width="16" valign="middle" /> Apache
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="16" valign="middle" /> NGINX
+- MicroCMS
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/wordpress/netlify-original.svg" alt="netlify" width="16" valign="middle" /> Netlify
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="16" valign="middle" /> Wordpress
 
 ### ☁️ Cloud
 - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="16" valign="middle" /> AWS
