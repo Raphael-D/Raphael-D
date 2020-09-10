@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 
 #### Programming languages
-- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html/html5-plain.svg" alt="HTML5" width="16"> HTML5
-- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/css/css3-plain.svg" alt="CSS3" width="16"> CSS3
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" width="16"> HTML5
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" width="16"> CSS3
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="16"> JavaScript
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-plain.svg" alt="PHP" width="16" /> PHP
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/java/java-plain.svg" alt="Java" width="16" /> Java
