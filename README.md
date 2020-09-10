@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Raphael-D/Raphael-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###   Status
+
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Raphael-D&show_icons=true&theme=dark&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-D&layout=compact&theme=dark&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🌱 I’m currently learning ...
+
+## Programming languages
+- ![JavaScript](https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg)
