@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 #### Middleware & Environments
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="16" style="vertical-align: middle;" /> Docker
-- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/mamp/mamp-original.svg" alt="MAMP" width="16" style="vertical-align: middle;" /> MAMP
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="16" style="vertical-align: middle;" /> MySQL
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="16" style="vertical-align: middle;" /> Node.js
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apache/apache-original.svg" alt="NGINX" width="16" style="vertical-align: middle;" /> Apache
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="16" style="vertical-align: middle;" /> NGINX
 
 #### Cloud
