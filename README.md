@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 
 ## Programming languages
-- ![JavaScript](https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg)
+
+- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="1em">
