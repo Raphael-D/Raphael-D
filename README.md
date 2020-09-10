@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 - <img src="https://ja.nuxtjs.org/logos/nuxt.svg" alt="Nuxt.js" width="16" valign="middle" /> Nuxt.js
 - <img src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" alt="Vuetify.js" width="16" valign="middle" /> Vuetify.js
 - <img src="https://api.iconify.design/logos-gridsome-icon.svg?height=16" alt="Gridsome" width="16" valign="middle" /> Gridsome
-- Express.js
-
+- <img src="https://api.iconify.design/logos:express.svg?height=16" alt="Express.js" width="16" valign="middle" /> Express.js
 
 #### Middleware & Environments
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="16" valign="middle" /> Docker
