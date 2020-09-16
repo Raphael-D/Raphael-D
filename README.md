@@ -71,3 +71,21 @@ Here are some ideas to get you started:
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp.js" width="16" valign="middle" /> Gulp
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/webpack/webpack-plain.svg" alt="Webpack" width="16" valign="middle" /> Webpack
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/babel/babel-plain.svg" alt="Babel.js" width="16" valign="middle" /> Babel.js
+
+
+### :octocat: What I love?
+:octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
+
+
+### 📓 Just my notes
+- AFAIK - "As Far As I Know”
+- FYI - "For Your Information”
+- GOTCHA - "I've Got You.”
+- IM(H)O - "In My (Humble) Opinion”
+- LGTM - "Looks Good To Me”
+- SSIA - "Subject Says It All”
+- TBD - "To Be Determined”
+- TGIF - "Thank God, It's Friday."
+- TIA - "Thanks In Advance”
+- TL;DR. - "Too Long. Didn't Read.”
+- WFM - "Works For Me”
